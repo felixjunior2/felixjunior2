@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixjunior2
 - 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...html css js java klotin mysql reat
+- 🌱 I’m currently learning ... IT Eng.
 - 💞️ I’m looking to collaborate on ...dev soft
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
